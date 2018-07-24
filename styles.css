@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(85, 85, 85);
+}
+td{
+     border: 2px;
+    border-style: solid
+}
+.tableheader{
+    background-color: rgb(101, 0, 11);
+    font-size: 25px;
+}
+.tablechecker{
+    background-color: darkgray;
+}
+.tablechecker2{
+    background-color: floralwhite
+}
+#optiona{
+    visibility: hidden
+}
+#optionb{
+    visibility: hidden
+}
+#optionc{
+    visibility: hidden
+}
+#optiond{
+    visibility: hidden
+}
+#optione{
+    visibility: hidden
+}
+input[type=number]{
+    width: 40px;
+} 
+#stattotal1{
+    display: inline-block;  
+    font-size:20px; 
+    margin: 10px;
+}
+#stattotal2{
+    display: inline-block; 
+    font-size:20px; 
+    margin: 10px;
+}
+#stattotal3{
+    display: inline-block; 
+    font-size:20px;
+    margin: 10px;
+}
+#stattotal4{
+    display: inline-block;
+    font-size:20px;
+    margin: 10px;
+}
+#stattotal5{
+    display: inline-block;
+    font-size:20px;
+    margin: 10px;
+}
+#stattotal6{
+    display: inline-block; 
+    font-size:20px;
+    margin: 10px;
+}
+.statbox{
+    width: 40px;
+    height: 40px;
+    border: solid;
+    
+}
+.spellrow1{
+    display: inline-block;
+    margin: 20px;
+}
+.spelltitle{
+    font-size: 25px;
+    
+}
+.bonus{
+    visibility: hidden
+}
